@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.info {
+  margin: 20px 0;
+
+  & small {
+    font-size: 0.7em;
+  }
+}
+
+.image {
+  max-height: 200px;
+}
